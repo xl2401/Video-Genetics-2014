@@ -1,0 +1,23 @@
+graph G{
+ranksep=.75; size ="50, 50";
+{
+node [shae=plaintext, fontsize=16];
+past -- 2007 -- 2008 -- 2009 -- 2010 -- 2011 -- 2012 -- 2013 -- future;}
+node [shape=box];
+{ rank=same;2007;"3fOMZ5gONM0";"4cSuws9AUkQ";"_MqHN-4okZ4";}
+{ rank=same;2008;"2krPEwUpYTw";"3dugipeVZtE";}
+{ rank=same;2009;"0CHIGG6X87U";"4AN1mntIDwk";"Kxa0mnDj0bs";"o_MVaCvgBC4";}
+{ rank=same;2010;"-2M7hk6A83c";"0iXHim3ToQ4";"2XID_W4neJo";"2suc92QBL2g";"3VLcLH97eRw";"_MFwRu9rPAc";"_ODIEqlbd5M";"qNEraxj559Y";"wf_IIbT8HGk";}
+{ rank=same;2011;"0X6g4ofbQuA";"1ES4nLWcNO8";"1UnQmLlQ5II";"1hPxGmTGarM";"3TQbDz6-4eM";"3g4PtSB4hpM";"hPzNl6NKAG0";}
+{ rank=same;2012;"0aZDP0UkoYw";"1ArfsN77jng";"1Rq2YI8Bzyo";"4e2jxwGTtpE";"8rJbeCzqyDI";"_fHCh_bARGo";"e7Enhndz2Wk";"kkT7A3jegBc";}
+{ rank=same;2013;"0Bmhjf0rKe8";"0P_764ZQS7E";"0eLJv_UKuJ4";"0k6mQyu2GxM";"1Ltq6A-ruSw";"1a3-rFI0uRA";"1qnsgjINYH0";"2ctfIOlTDi8";"2hngBzDDyFE";"2iW220ix7M8";"3ZVbqk4aVuY";"3j7Nn9U3v7c";"3wkE0zHALCs";"4-L6rEm0rnY";"_ZSbC09qgLI";"_ifYax8Smoc";"_u3cSSibJlY";}
+"2krPEwUpYTw"--"3dugipeVZtE" [label=39]
+"2krPEwUpYTw"--"o_MVaCvgBC4" [label=75]
+"2krPEwUpYTw"--"wf_IIbT8HGk" [label=3]
+"3dugipeVZtE"--"Kxa0mnDj0bs" [label=32]
+"3dugipeVZtE"--"o_MVaCvgBC4" [label=74]
+"4e2jxwGTtpE"--"qNEraxj559Y" [label=45]
+"8rJbeCzqyDI"--"kkT7A3jegBc" [label=10]
+"Kxa0mnDj0bs"--"o_MVaCvgBC4" [label=33]
+"o_MVaCvgBC4"--"wf_IIbT8HGk" [label=3]
+}

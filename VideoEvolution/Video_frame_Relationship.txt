@@ -1,0 +1,951 @@
+video 2krPEwUpYTw with video 3dugipeVZtE 
+sharecluster 155
+video :2krPEwUpYTw 3 ~17 66 106 133 ~134 136 ~140 158 161 ~166 196 ~199 209 ~210 228 
+video :3dugipeVZtE 2 ~8 10 ~18 31 ~41 115 157 161 ~168 310 ~321 336 ~342 383 423 480 ~483 545 ~551 553 ~559 561 ~564 569 ~576 584 ~591 593 ~595 600 ~614 620 626 
+sharecluster 11814
+video :2krPEwUpYTw 33 
+video :3dugipeVZtE 344 
+sharecluster 11821
+video :2krPEwUpYTw 40 
+video :3dugipeVZtE 359 
+sharecluster 11826
+video :2krPEwUpYTw 45 
+video :3dugipeVZtE 363 
+sharecluster 11835
+video :2krPEwUpYTw 54 
+video :3dugipeVZtE 371 
+sharecluster 11836
+video :2krPEwUpYTw 55 
+video :3dugipeVZtE 372 
+sharecluster 11837
+video :2krPEwUpYTw 56 
+video :3dugipeVZtE 373 
+sharecluster 11840
+video :2krPEwUpYTw 59 
+video :3dugipeVZtE 376 
+sharecluster 11843
+video :2krPEwUpYTw 62 
+video :3dugipeVZtE 379 
+sharecluster 11844
+video :2krPEwUpYTw 63 
+video :3dugipeVZtE 380 
+sharecluster 11849
+video :2krPEwUpYTw 68 
+video :3dugipeVZtE 385 
+sharecluster 11854
+video :2krPEwUpYTw 73 
+video :3dugipeVZtE 390 
+sharecluster 11855
+video :2krPEwUpYTw 74 
+video :3dugipeVZtE 391 
+sharecluster 11860
+video :2krPEwUpYTw 79 
+video :3dugipeVZtE 396 
+sharecluster 11861
+video :2krPEwUpYTw 80 
+video :3dugipeVZtE 397 
+sharecluster 11862
+video :2krPEwUpYTw 81 
+video :3dugipeVZtE 398 
+sharecluster 11872
+video :2krPEwUpYTw 91 
+video :3dugipeVZtE 408 
+sharecluster 11873
+video :2krPEwUpYTw 92 
+video :3dugipeVZtE 409 
+sharecluster 11875
+video :2krPEwUpYTw 94 
+video :3dugipeVZtE 411 
+sharecluster 11879
+video :2krPEwUpYTw 98 
+video :3dugipeVZtE 415 
+sharecluster 11888
+video :2krPEwUpYTw 107 
+video :3dugipeVZtE 424 
+sharecluster 11889
+video :2krPEwUpYTw 108 
+video :3dugipeVZtE 425 
+sharecluster 11890
+video :2krPEwUpYTw 109 
+video :3dugipeVZtE 426 
+sharecluster 11893
+video :2krPEwUpYTw 112 
+video :3dugipeVZtE 429 
+sharecluster 11897
+video :2krPEwUpYTw 116 
+video :3dugipeVZtE 433 
+sharecluster 11899
+video :2krPEwUpYTw 118 
+video :3dugipeVZtE 435 
+sharecluster 11900
+video :2krPEwUpYTw 119 
+video :3dugipeVZtE 436 
+sharecluster 11901
+video :2krPEwUpYTw 120 
+video :3dugipeVZtE 437 
+sharecluster 11902
+video :2krPEwUpYTw 121 
+video :3dugipeVZtE 438 
+sharecluster 11904
+video :2krPEwUpYTw 123 
+video :3dugipeVZtE 440 
+sharecluster 11906
+video :2krPEwUpYTw 125 
+video :3dugipeVZtE 442 
+sharecluster 11992
+video :2krPEwUpYTw 211 
+video :3dugipeVZtE 528 
+sharecluster 11994
+video :2krPEwUpYTw 213 
+video :3dugipeVZtE 530 
+sharecluster 11996
+video :2krPEwUpYTw 215 
+video :3dugipeVZtE 532 
+sharecluster 11998
+video :2krPEwUpYTw 217 
+video :3dugipeVZtE 534 
+sharecluster 11999
+video :2krPEwUpYTw 218 
+video :3dugipeVZtE 535 
+sharecluster 12002
+video :2krPEwUpYTw 221 
+video :3dugipeVZtE 538 
+sharecluster 12003
+video :2krPEwUpYTw 222 
+video :3dugipeVZtE 539 
+sharecluster 12005
+video :2krPEwUpYTw 224 
+video :3dugipeVZtE 541 
+video 2krPEwUpYTw with video o_MVaCvgBC4 
+sharecluster 155
+video :2krPEwUpYTw 3 ~17 66 106 133 ~134 136 ~140 158 161 ~166 196 ~199 209 ~210 228 
+video :o_MVaCvgBC4 2 ~7 9 ~17 30 ~40 197 237 264 ~265 267 ~271 289 292 ~297 327 ~330 340 ~341 359 ~365 375 
+sharecluster 11814
+video :2krPEwUpYTw 33 
+video :o_MVaCvgBC4 159 
+sharecluster 11819
+video :2krPEwUpYTw 38 
+video :o_MVaCvgBC4 169 
+sharecluster 11821
+video :2krPEwUpYTw 40 
+video :o_MVaCvgBC4 172 
+sharecluster 11826
+video :2krPEwUpYTw 45 
+video :o_MVaCvgBC4 177 
+sharecluster 11837
+video :2krPEwUpYTw 56 
+video :o_MVaCvgBC4 188 
+sharecluster 11841
+video :2krPEwUpYTw 60 
+video :o_MVaCvgBC4 191 
+sharecluster 11842
+video :2krPEwUpYTw 61 
+video :o_MVaCvgBC4 193 
+sharecluster 11843
+video :2krPEwUpYTw 62 
+video :o_MVaCvgBC4 194 
+sharecluster 11844
+video :2krPEwUpYTw 63 
+video :o_MVaCvgBC4 195 
+sharecluster 11848
+video :2krPEwUpYTw 67 
+video :o_MVaCvgBC4 198 
+sharecluster 11849
+video :2krPEwUpYTw 68 
+video :o_MVaCvgBC4 199 
+sharecluster 11854
+video :2krPEwUpYTw 73 
+video :o_MVaCvgBC4 204 
+sharecluster 11855
+video :2krPEwUpYTw 74 
+video :o_MVaCvgBC4 205 
+sharecluster 11860
+video :2krPEwUpYTw 79 
+video :o_MVaCvgBC4 210 
+sharecluster 11861
+video :2krPEwUpYTw 80 
+video :o_MVaCvgBC4 211 
+sharecluster 11862
+video :2krPEwUpYTw 81 
+video :o_MVaCvgBC4 212 
+sharecluster 11871
+video :2krPEwUpYTw 90 
+video :o_MVaCvgBC4 221 
+sharecluster 11872
+video :2krPEwUpYTw 91 
+video :o_MVaCvgBC4 222 
+sharecluster 11873
+video :2krPEwUpYTw 92 
+video :o_MVaCvgBC4 223 
+sharecluster 11875
+video :2krPEwUpYTw 94 
+video :o_MVaCvgBC4 225 
+sharecluster 11879
+video :2krPEwUpYTw 98 
+video :o_MVaCvgBC4 229 
+sharecluster 11888
+video :2krPEwUpYTw 107 
+video :o_MVaCvgBC4 238 
+sharecluster 11889
+video :2krPEwUpYTw 108 
+video :o_MVaCvgBC4 239 
+sharecluster 11890
+video :2krPEwUpYTw 109 
+video :o_MVaCvgBC4 240 
+sharecluster 11891
+video :2krPEwUpYTw 110 
+video :o_MVaCvgBC4 241 
+sharecluster 11892
+video :2krPEwUpYTw 111 
+video :o_MVaCvgBC4 242 
+sharecluster 11893
+video :2krPEwUpYTw 112 
+video :o_MVaCvgBC4 243 
+sharecluster 11894
+video :2krPEwUpYTw 113 
+video :o_MVaCvgBC4 244 
+sharecluster 11895
+video :2krPEwUpYTw 114 
+video :o_MVaCvgBC4 245 
+sharecluster 11896
+video :2krPEwUpYTw 115 
+video :o_MVaCvgBC4 246 
+sharecluster 11897
+video :2krPEwUpYTw 116 
+video :o_MVaCvgBC4 247 
+sharecluster 11899
+video :2krPEwUpYTw 118 
+video :o_MVaCvgBC4 249 
+sharecluster 11900
+video :2krPEwUpYTw 119 
+video :o_MVaCvgBC4 250 
+sharecluster 11901
+video :2krPEwUpYTw 120 
+video :o_MVaCvgBC4 251 
+sharecluster 11902
+video :2krPEwUpYTw 121 
+video :o_MVaCvgBC4 252 
+sharecluster 11903
+video :2krPEwUpYTw 122 
+video :o_MVaCvgBC4 253 
+sharecluster 11904
+video :2krPEwUpYTw 123 
+video :o_MVaCvgBC4 254 
+sharecluster 11906
+video :2krPEwUpYTw 125 
+video :o_MVaCvgBC4 256 
+sharecluster 11916
+video :2krPEwUpYTw 135 
+video :o_MVaCvgBC4 266 
+sharecluster 11922
+video :2krPEwUpYTw 141 
+video :o_MVaCvgBC4 272 
+sharecluster 11931
+video :2krPEwUpYTw 150 
+video :o_MVaCvgBC4 281 
+sharecluster 11935
+video :2krPEwUpYTw 154 
+video :o_MVaCvgBC4 285 
+sharecluster 11938
+video :2krPEwUpYTw 157 
+video :o_MVaCvgBC4 288 
+sharecluster 11940
+video :2krPEwUpYTw 159 
+video :o_MVaCvgBC4 290 
+sharecluster 11948
+video :2krPEwUpYTw 167 
+video :o_MVaCvgBC4 298 
+sharecluster 11950
+video :2krPEwUpYTw 169 
+video :o_MVaCvgBC4 300 
+sharecluster 11952
+video :2krPEwUpYTw 171 
+video :o_MVaCvgBC4 302 
+sharecluster 11954
+video :2krPEwUpYTw 173 
+video :o_MVaCvgBC4 304 
+sharecluster 11955
+video :2krPEwUpYTw 174 
+video :o_MVaCvgBC4 305 
+sharecluster 11956
+video :2krPEwUpYTw 175 
+video :o_MVaCvgBC4 306 
+sharecluster 11957
+video :2krPEwUpYTw 176 
+video :o_MVaCvgBC4 307 
+sharecluster 11965
+video :2krPEwUpYTw 184 
+video :o_MVaCvgBC4 315 
+sharecluster 11966
+video :2krPEwUpYTw 185 
+video :o_MVaCvgBC4 316 
+sharecluster 11967
+video :2krPEwUpYTw 186 
+video :o_MVaCvgBC4 317 
+sharecluster 11968
+video :2krPEwUpYTw 187 
+video :o_MVaCvgBC4 318 
+sharecluster 11969
+video :2krPEwUpYTw 188 
+video :o_MVaCvgBC4 319 
+sharecluster 11970
+video :2krPEwUpYTw 189 
+video :o_MVaCvgBC4 320 
+sharecluster 11971
+video :2krPEwUpYTw 190 
+video :o_MVaCvgBC4 321 
+sharecluster 11972
+video :2krPEwUpYTw 191 
+video :o_MVaCvgBC4 322 
+sharecluster 11973
+video :2krPEwUpYTw 192 
+video :o_MVaCvgBC4 323 
+sharecluster 11981
+video :2krPEwUpYTw 200 
+video :o_MVaCvgBC4 331 
+sharecluster 11985
+video :2krPEwUpYTw 204 
+video :o_MVaCvgBC4 335 
+sharecluster 11986
+video :2krPEwUpYTw 205 
+video :o_MVaCvgBC4 336 
+sharecluster 11987
+video :2krPEwUpYTw 206 
+video :o_MVaCvgBC4 337 
+sharecluster 11988
+video :2krPEwUpYTw 207 
+video :o_MVaCvgBC4 338 
+sharecluster 11989
+video :2krPEwUpYTw 208 
+video :o_MVaCvgBC4 339 
+sharecluster 11992
+video :2krPEwUpYTw 211 
+video :o_MVaCvgBC4 342 
+sharecluster 11994
+video :2krPEwUpYTw 213 
+video :o_MVaCvgBC4 344 
+sharecluster 11996
+video :2krPEwUpYTw 215 
+video :o_MVaCvgBC4 346 
+sharecluster 11998
+video :2krPEwUpYTw 217 
+video :o_MVaCvgBC4 348 
+sharecluster 11999
+video :2krPEwUpYTw 218 
+video :o_MVaCvgBC4 349 
+sharecluster 12002
+video :2krPEwUpYTw 221 
+video :o_MVaCvgBC4 352 
+sharecluster 12003
+video :2krPEwUpYTw 222 
+video :o_MVaCvgBC4 353 
+sharecluster 12005
+video :2krPEwUpYTw 224 
+video :o_MVaCvgBC4 355 
+video 2krPEwUpYTw with video wf_IIbT8HGk 
+sharecluster 155
+video :2krPEwUpYTw 3 ~17 66 106 133 ~134 136 ~140 158 161 ~166 196 ~199 209 ~210 228 
+video :wf_IIbT8HGk 9 ~19 77 105 ~110 130 ~147 153 ~156 200 ~203 252 ~259 401 ~415 423 ~424 429 431 
+sharecluster 11819
+video :2krPEwUpYTw 38 
+video :wf_IIbT8HGk 163 165 
+sharecluster 11821
+video :2krPEwUpYTw 40 
+video :wf_IIbT8HGk 166 
+video 3dugipeVZtE with video Kxa0mnDj0bs 
+sharecluster 155
+video :3dugipeVZtE 2 ~8 10 ~18 31 ~41 115 157 161 ~168 310 ~321 336 ~342 383 423 480 ~483 545 ~551 553 ~559 561 ~564 569 ~576 584 ~591 593 ~595 600 ~614 620 626 
+video :Kxa0mnDj0bs 15 ~25 39 ~52 194 ~206 268 ~269 321 ~333 366 378 387 
+sharecluster 13213
+video :3dugipeVZtE 19 
+video :Kxa0mnDj0bs 26 
+sharecluster 13217
+video :3dugipeVZtE 23 
+video :Kxa0mnDj0bs 30 
+sharecluster 13218
+video :3dugipeVZtE 24 
+video :Kxa0mnDj0bs 31 
+sharecluster 13236
+video :3dugipeVZtE 42 
+video :Kxa0mnDj0bs 53 
+sharecluster 13238
+video :3dugipeVZtE 44 
+video :Kxa0mnDj0bs 55 
+sharecluster 13242
+video :3dugipeVZtE 48 
+video :Kxa0mnDj0bs 60 
+sharecluster 13243
+video :3dugipeVZtE 49 
+video :Kxa0mnDj0bs 61 
+sharecluster 13247
+video :3dugipeVZtE 53 
+video :Kxa0mnDj0bs 66 
+sharecluster 13249
+video :3dugipeVZtE 55 
+video :Kxa0mnDj0bs 68 
+sharecluster 13253
+video :3dugipeVZtE 59 
+video :Kxa0mnDj0bs 73 
+sharecluster 13258
+video :3dugipeVZtE 64 
+video :Kxa0mnDj0bs 79 
+sharecluster 13266
+video :3dugipeVZtE 72 
+video :Kxa0mnDj0bs 89 
+sharecluster 13267
+video :3dugipeVZtE 73 
+video :Kxa0mnDj0bs 90 
+sharecluster 13269
+video :3dugipeVZtE 75 
+video :Kxa0mnDj0bs 92 
+sharecluster 13273
+video :3dugipeVZtE 79 
+video :Kxa0mnDj0bs 97 
+sharecluster 13274
+video :3dugipeVZtE 80 
+video :Kxa0mnDj0bs 98 
+sharecluster 13279
+video :3dugipeVZtE 85 
+video :Kxa0mnDj0bs 105 
+sharecluster 13287
+video :3dugipeVZtE 93 
+video :Kxa0mnDj0bs 114 
+sharecluster 13288
+video :3dugipeVZtE 94 
+video :Kxa0mnDj0bs 115 
+sharecluster 13290
+video :3dugipeVZtE 96 
+video :Kxa0mnDj0bs 117 
+sharecluster 13295
+video :3dugipeVZtE 101 
+video :Kxa0mnDj0bs 123 
+sharecluster 13297
+video :3dugipeVZtE 103 
+video :Kxa0mnDj0bs 126 
+sharecluster 13298
+video :3dugipeVZtE 104 
+video :Kxa0mnDj0bs 127 
+sharecluster 13300
+video :3dugipeVZtE 106 
+video :Kxa0mnDj0bs 130 
+sharecluster 13306
+video :3dugipeVZtE 112 ~114 116 
+video :Kxa0mnDj0bs 136 ~139 141 
+sharecluster 13311
+video :3dugipeVZtE 117 
+video :Kxa0mnDj0bs 143 
+sharecluster 13322
+video :3dugipeVZtE 128 
+video :Kxa0mnDj0bs 155 
+sharecluster 13332
+video :3dugipeVZtE 138 
+video :Kxa0mnDj0bs 167 
+sharecluster 13337
+video :3dugipeVZtE 143 
+video :Kxa0mnDj0bs 173 
+sharecluster 13342
+video :3dugipeVZtE 148 
+video :Kxa0mnDj0bs 180 
+sharecluster 13347
+video :3dugipeVZtE 153 
+video :Kxa0mnDj0bs 186 
+video 3dugipeVZtE with video o_MVaCvgBC4 
+sharecluster 155
+video :3dugipeVZtE 2 ~8 10 ~18 31 ~41 115 157 161 ~168 310 ~321 336 ~342 383 423 480 ~483 545 ~551 553 ~559 561 ~564 569 ~576 584 ~591 593 ~595 600 ~614 620 626 
+video :o_MVaCvgBC4 2 ~7 9 ~17 30 ~40 197 237 264 ~265 267 ~271 289 292 ~297 327 ~330 340 ~341 359 ~365 375 
+sharecluster 11814
+video :3dugipeVZtE 344 
+video :o_MVaCvgBC4 159 
+sharecluster 11821
+video :3dugipeVZtE 359 
+video :o_MVaCvgBC4 172 
+sharecluster 11826
+video :3dugipeVZtE 363 
+video :o_MVaCvgBC4 177 
+sharecluster 11837
+video :3dugipeVZtE 373 
+video :o_MVaCvgBC4 188 
+sharecluster 11843
+video :3dugipeVZtE 379 
+video :o_MVaCvgBC4 194 
+sharecluster 11844
+video :3dugipeVZtE 380 
+video :o_MVaCvgBC4 195 
+sharecluster 11849
+video :3dugipeVZtE 385 
+video :o_MVaCvgBC4 199 
+sharecluster 11854
+video :3dugipeVZtE 390 
+video :o_MVaCvgBC4 204 
+sharecluster 11855
+video :3dugipeVZtE 391 
+video :o_MVaCvgBC4 205 
+sharecluster 11860
+video :3dugipeVZtE 396 
+video :o_MVaCvgBC4 210 
+sharecluster 11861
+video :3dugipeVZtE 397 
+video :o_MVaCvgBC4 211 
+sharecluster 11862
+video :3dugipeVZtE 398 
+video :o_MVaCvgBC4 212 
+sharecluster 11872
+video :3dugipeVZtE 408 
+video :o_MVaCvgBC4 222 
+sharecluster 11873
+video :3dugipeVZtE 409 
+video :o_MVaCvgBC4 223 
+sharecluster 11875
+video :3dugipeVZtE 411 
+video :o_MVaCvgBC4 225 
+sharecluster 11879
+video :3dugipeVZtE 415 
+video :o_MVaCvgBC4 229 
+sharecluster 11888
+video :3dugipeVZtE 424 
+video :o_MVaCvgBC4 238 
+sharecluster 11889
+video :3dugipeVZtE 425 
+video :o_MVaCvgBC4 239 
+sharecluster 11890
+video :3dugipeVZtE 426 
+video :o_MVaCvgBC4 240 
+sharecluster 11893
+video :3dugipeVZtE 429 
+video :o_MVaCvgBC4 243 
+sharecluster 11897
+video :3dugipeVZtE 433 
+video :o_MVaCvgBC4 247 
+sharecluster 11899
+video :3dugipeVZtE 435 
+video :o_MVaCvgBC4 249 
+sharecluster 11900
+video :3dugipeVZtE 436 
+video :o_MVaCvgBC4 250 
+sharecluster 11901
+video :3dugipeVZtE 437 
+video :o_MVaCvgBC4 251 
+sharecluster 11902
+video :3dugipeVZtE 438 
+video :o_MVaCvgBC4 252 
+sharecluster 11904
+video :3dugipeVZtE 440 
+video :o_MVaCvgBC4 254 
+sharecluster 11906
+video :3dugipeVZtE 442 
+video :o_MVaCvgBC4 256 
+sharecluster 11992
+video :3dugipeVZtE 528 
+video :o_MVaCvgBC4 342 
+sharecluster 11994
+video :3dugipeVZtE 530 
+video :o_MVaCvgBC4 344 
+sharecluster 11996
+video :3dugipeVZtE 532 
+video :o_MVaCvgBC4 346 
+sharecluster 11998
+video :3dugipeVZtE 534 
+video :o_MVaCvgBC4 348 
+sharecluster 11999
+video :3dugipeVZtE 535 
+video :o_MVaCvgBC4 349 
+sharecluster 12002
+video :3dugipeVZtE 538 
+video :o_MVaCvgBC4 352 
+sharecluster 12003
+video :3dugipeVZtE 539 
+video :o_MVaCvgBC4 353 
+sharecluster 12005
+video :3dugipeVZtE 541 
+video :o_MVaCvgBC4 355 
+sharecluster 13213
+video :3dugipeVZtE 19 
+video :o_MVaCvgBC4 18 
+sharecluster 13217
+video :3dugipeVZtE 23 
+video :o_MVaCvgBC4 22 
+sharecluster 13218
+video :3dugipeVZtE 24 
+video :o_MVaCvgBC4 23 
+sharecluster 13236
+video :3dugipeVZtE 42 
+video :o_MVaCvgBC4 41 
+sharecluster 13238
+video :3dugipeVZtE 44 
+video :o_MVaCvgBC4 43 
+sharecluster 13242
+video :3dugipeVZtE 48 
+video :o_MVaCvgBC4 47 
+sharecluster 13243
+video :3dugipeVZtE 49 
+video :o_MVaCvgBC4 48 
+sharecluster 13247
+video :3dugipeVZtE 53 
+video :o_MVaCvgBC4 52 
+sharecluster 13248
+video :3dugipeVZtE 54 
+video :o_MVaCvgBC4 53 
+sharecluster 13249
+video :3dugipeVZtE 55 
+video :o_MVaCvgBC4 54 
+sharecluster 13253
+video :3dugipeVZtE 59 
+video :o_MVaCvgBC4 58 
+sharecluster 13258
+video :3dugipeVZtE 64 
+video :o_MVaCvgBC4 63 
+sharecluster 13265
+video :3dugipeVZtE 71 
+video :o_MVaCvgBC4 70 
+sharecluster 13266
+video :3dugipeVZtE 72 
+video :o_MVaCvgBC4 71 
+sharecluster 13267
+video :3dugipeVZtE 73 
+video :o_MVaCvgBC4 72 
+sharecluster 13269
+video :3dugipeVZtE 75 
+video :o_MVaCvgBC4 74 
+sharecluster 13273
+video :3dugipeVZtE 79 
+video :o_MVaCvgBC4 78 
+sharecluster 13274
+video :3dugipeVZtE 80 
+video :o_MVaCvgBC4 79 
+sharecluster 13279
+video :3dugipeVZtE 85 
+video :o_MVaCvgBC4 84 
+sharecluster 13285
+video :3dugipeVZtE 91 
+video :o_MVaCvgBC4 90 
+sharecluster 13286
+video :3dugipeVZtE 92 
+video :o_MVaCvgBC4 91 
+sharecluster 13287
+video :3dugipeVZtE 93 
+video :o_MVaCvgBC4 92 
+sharecluster 13288
+video :3dugipeVZtE 94 
+video :o_MVaCvgBC4 93 
+sharecluster 13290
+video :3dugipeVZtE 96 
+video :o_MVaCvgBC4 95 
+sharecluster 13295
+video :3dugipeVZtE 101 
+video :o_MVaCvgBC4 100 
+sharecluster 13297
+video :3dugipeVZtE 103 
+video :o_MVaCvgBC4 102 
+sharecluster 13298
+video :3dugipeVZtE 104 
+video :o_MVaCvgBC4 103 
+sharecluster 13300
+video :3dugipeVZtE 106 
+video :o_MVaCvgBC4 105 
+sharecluster 13306
+video :3dugipeVZtE 112 ~114 116 
+video :o_MVaCvgBC4 111 ~113 115 
+sharecluster 13311
+video :3dugipeVZtE 117 
+video :o_MVaCvgBC4 116 
+sharecluster 13321
+video :3dugipeVZtE 127 
+video :o_MVaCvgBC4 126 
+sharecluster 13322
+video :3dugipeVZtE 128 
+video :o_MVaCvgBC4 127 
+sharecluster 13331
+video :3dugipeVZtE 137 
+video :o_MVaCvgBC4 136 
+sharecluster 13332
+video :3dugipeVZtE 138 
+video :o_MVaCvgBC4 137 
+sharecluster 13337
+video :3dugipeVZtE 143 
+video :o_MVaCvgBC4 142 
+sharecluster 13341
+video :3dugipeVZtE 147 
+video :o_MVaCvgBC4 146 
+sharecluster 13342
+video :3dugipeVZtE 148 
+video :o_MVaCvgBC4 147 
+sharecluster 13347
+video :3dugipeVZtE 153 
+video :o_MVaCvgBC4 152 
+video 4e2jxwGTtpE with video qNEraxj559Y 
+sharecluster 155
+video :4e2jxwGTtpE 16 ~26 45 ~48 52 ~71 76 ~84 90 ~105 124 ~130 136 ~174 177 ~178 183 ~198 213 ~243 246 ~253 255 257 259 ~260 265 ~266 268 275 ~286 289 ~293 295 ~301 305 ~308 312 ~320 353 ~380 390 ~417 435 ~437 439 441 
+video :qNEraxj559Y 2 ~9 25 ~45 47 ~51 59 ~65 68 ~73 79 ~93 99 ~129 165 ~175 196 ~198 203 ~223 228 ~236 244 ~260 280 ~287 293 ~335 338 ~340 345 ~361 377 ~410 412 ~421 423 425 427 ~428 433 435 437 445 ~460 464 ~469 471 ~479 481 ~488 491 493 ~495 499 ~508 543 ~573 583 ~613 632 ~635 637 639 
+sharecluster 15290
+video :4e2jxwGTtpE 1 
+video :qNEraxj559Y 137 
+sharecluster 15291
+video :4e2jxwGTtpE 2 
+video :qNEraxj559Y 148 
+sharecluster 15294
+video :4e2jxwGTtpE 5 
+video :qNEraxj559Y 152 
+sharecluster 15316
+video :4e2jxwGTtpE 27 
+video :qNEraxj559Y 176 
+sharecluster 15325
+video :4e2jxwGTtpE 36 
+video :qNEraxj559Y 185 
+sharecluster 15329
+video :4e2jxwGTtpE 40 
+video :qNEraxj559Y 190 
+sharecluster 15338
+video :4e2jxwGTtpE 49 
+video :qNEraxj559Y 199 
+sharecluster 15361
+video :4e2jxwGTtpE 72 74 
+video :qNEraxj559Y 224 226 
+sharecluster 15362
+video :4e2jxwGTtpE 73 75 
+video :qNEraxj559Y 225 227 
+sharecluster 15374
+video :4e2jxwGTtpE 85 
+video :qNEraxj559Y 238 
+sharecluster 15395
+video :4e2jxwGTtpE 106 
+video :qNEraxj559Y 261 
+sharecluster 15401
+video :4e2jxwGTtpE 112 
+video :qNEraxj559Y 267 
+sharecluster 15408
+video :4e2jxwGTtpE 119 
+video :qNEraxj559Y 275 
+sharecluster 15421
+video :4e2jxwGTtpE 132 
+video :qNEraxj559Y 289 
+sharecluster 15422
+video :4e2jxwGTtpE 133 
+video :qNEraxj559Y 290 
+sharecluster 15468
+video :4e2jxwGTtpE 179 
+video :qNEraxj559Y 341 
+sharecluster 15470
+video :4e2jxwGTtpE 181 
+video :qNEraxj559Y 343 
+sharecluster 15471
+video :4e2jxwGTtpE 182 
+video :qNEraxj559Y 344 
+sharecluster 15488
+video :4e2jxwGTtpE 199 
+video :qNEraxj559Y 362 
+sharecluster 15494
+video :4e2jxwGTtpE 205 
+video :qNEraxj559Y 369 
+sharecluster 15496
+video :4e2jxwGTtpE 207 
+video :qNEraxj559Y 371 
+sharecluster 15498
+video :4e2jxwGTtpE 209 
+video :qNEraxj559Y 373 
+sharecluster 15501
+video :4e2jxwGTtpE 212 
+video :qNEraxj559Y 376 
+sharecluster 15532
+video :4e2jxwGTtpE 244 
+video :qNEraxj559Y 411 
+sharecluster 15543
+video :4e2jxwGTtpE 254 256 258 
+video :qNEraxj559Y 422 424 426 
+sharecluster 15550
+video :4e2jxwGTtpE 261 
+video :qNEraxj559Y 429 
+sharecluster 15554
+video :4e2jxwGTtpE 267 
+video :qNEraxj559Y 434 436 
+sharecluster 15558
+video :4e2jxwGTtpE 269 
+video :qNEraxj559Y 438 
+sharecluster 15560
+video :4e2jxwGTtpE 271 
+video :qNEraxj559Y 441 
+sharecluster 15576
+video :4e2jxwGTtpE 287 
+video :qNEraxj559Y 461 
+sharecluster 15577
+video :4e2jxwGTtpE 288 
+video :qNEraxj559Y 462 
+sharecluster 15593
+video :4e2jxwGTtpE 304 
+video :qNEraxj559Y 490 
+sharecluster 15598
+video :4e2jxwGTtpE 309 
+video :qNEraxj559Y 496 
+sharecluster 15610
+video :4e2jxwGTtpE 321 
+video :qNEraxj559Y 509 
+sharecluster 15614
+video :4e2jxwGTtpE 325 
+video :qNEraxj559Y 514 
+sharecluster 15615
+video :4e2jxwGTtpE 326 
+video :qNEraxj559Y 515 
+sharecluster 15618
+video :4e2jxwGTtpE 329 ~338 418 
+video :qNEraxj559Y 518 ~528 614 
+sharecluster 15628
+video :4e2jxwGTtpE 339 
+video :qNEraxj559Y 529 
+sharecluster 15633
+video :4e2jxwGTtpE 344 
+video :qNEraxj559Y 534 
+sharecluster 15670
+video :4e2jxwGTtpE 381 
+video :qNEraxj559Y 574 
+sharecluster 15714
+video :4e2jxwGTtpE 425 
+video :qNEraxj559Y 621 
+sharecluster 15719
+video :4e2jxwGTtpE 430 
+video :qNEraxj559Y 627 
+sharecluster 15727
+video :4e2jxwGTtpE 438 
+video :qNEraxj559Y 636 
+sharecluster 15729
+video :4e2jxwGTtpE 440 
+video :qNEraxj559Y 638 
+video 8rJbeCzqyDI with video kkT7A3jegBc 
+sharecluster 155
+video :8rJbeCzqyDI 8 ~73 85 ~124 129 ~141 151 ~183 199 ~203 206 ~230 233 237 ~247 253 
+video :kkT7A3jegBc 7 ~62 72 ~104 109 ~118 127 ~153 167 ~170 172 ~195 199 ~207 212 
+sharecluster 15816
+video :8rJbeCzqyDI 2 
+video :kkT7A3jegBc 2 
+sharecluster 15818
+video :8rJbeCzqyDI 4 74 ~84 195 
+video :kkT7A3jegBc 4 63 ~71 164 
+sharecluster 15819
+video :8rJbeCzqyDI 5 
+video :kkT7A3jegBc 5 
+sharecluster 15939
+video :8rJbeCzqyDI 125 ~128 184 ~194 236 
+video :kkT7A3jegBc 105 ~108 154 
+sharecluster 15956
+video :8rJbeCzqyDI 142 
+video :kkT7A3jegBc 119 
+sharecluster 16018
+video :8rJbeCzqyDI 204 
+video :kkT7A3jegBc 171 
+sharecluster 16048
+video :8rJbeCzqyDI 234 
+video :kkT7A3jegBc 196 
+sharecluster 16049
+video :8rJbeCzqyDI 235 
+video :kkT7A3jegBc 197 
+sharecluster 16062
+video :8rJbeCzqyDI 248 
+video :kkT7A3jegBc 208 
+video Kxa0mnDj0bs with video o_MVaCvgBC4 
+sharecluster 155
+video :Kxa0mnDj0bs 15 ~25 39 ~52 194 ~206 268 ~269 321 ~333 366 378 387 
+video :o_MVaCvgBC4 2 ~7 9 ~17 30 ~40 197 237 264 ~265 267 ~271 289 292 ~297 327 ~330 340 ~341 359 ~365 375 
+sharecluster 13213
+video :Kxa0mnDj0bs 26 
+video :o_MVaCvgBC4 18 
+sharecluster 13217
+video :Kxa0mnDj0bs 30 
+video :o_MVaCvgBC4 22 
+sharecluster 13218
+video :Kxa0mnDj0bs 31 
+video :o_MVaCvgBC4 23 
+sharecluster 13236
+video :Kxa0mnDj0bs 53 
+video :o_MVaCvgBC4 41 
+sharecluster 13238
+video :Kxa0mnDj0bs 55 
+video :o_MVaCvgBC4 43 
+sharecluster 13242
+video :Kxa0mnDj0bs 60 
+video :o_MVaCvgBC4 47 
+sharecluster 13243
+video :Kxa0mnDj0bs 61 
+video :o_MVaCvgBC4 48 
+sharecluster 13247
+video :Kxa0mnDj0bs 66 
+video :o_MVaCvgBC4 52 
+sharecluster 13249
+video :Kxa0mnDj0bs 68 
+video :o_MVaCvgBC4 54 
+sharecluster 13253
+video :Kxa0mnDj0bs 73 
+video :o_MVaCvgBC4 58 
+sharecluster 13258
+video :Kxa0mnDj0bs 79 
+video :o_MVaCvgBC4 63 
+sharecluster 13266
+video :Kxa0mnDj0bs 89 
+video :o_MVaCvgBC4 71 
+sharecluster 13267
+video :Kxa0mnDj0bs 90 
+video :o_MVaCvgBC4 72 
+sharecluster 13269
+video :Kxa0mnDj0bs 92 
+video :o_MVaCvgBC4 74 
+sharecluster 13273
+video :Kxa0mnDj0bs 97 
+video :o_MVaCvgBC4 78 
+sharecluster 13274
+video :Kxa0mnDj0bs 98 
+video :o_MVaCvgBC4 79 
+sharecluster 13279
+video :Kxa0mnDj0bs 105 
+video :o_MVaCvgBC4 84 
+sharecluster 13287
+video :Kxa0mnDj0bs 114 
+video :o_MVaCvgBC4 92 
+sharecluster 13288
+video :Kxa0mnDj0bs 115 
+video :o_MVaCvgBC4 93 
+sharecluster 13290
+video :Kxa0mnDj0bs 117 
+video :o_MVaCvgBC4 95 
+sharecluster 13295
+video :Kxa0mnDj0bs 123 
+video :o_MVaCvgBC4 100 
+sharecluster 13297
+video :Kxa0mnDj0bs 126 
+video :o_MVaCvgBC4 102 
+sharecluster 13298
+video :Kxa0mnDj0bs 127 
+video :o_MVaCvgBC4 103 
+sharecluster 13300
+video :Kxa0mnDj0bs 130 
+video :o_MVaCvgBC4 105 
+sharecluster 13306
+video :Kxa0mnDj0bs 136 ~139 141 
+video :o_MVaCvgBC4 111 ~113 115 
+sharecluster 13309
+video :Kxa0mnDj0bs 140 
+video :o_MVaCvgBC4 114 
+sharecluster 13311
+video :Kxa0mnDj0bs 143 
+video :o_MVaCvgBC4 116 
+sharecluster 13322
+video :Kxa0mnDj0bs 155 
+video :o_MVaCvgBC4 127 
+sharecluster 13332
+video :Kxa0mnDj0bs 167 
+video :o_MVaCvgBC4 137 
+sharecluster 13337
+video :Kxa0mnDj0bs 173 
+video :o_MVaCvgBC4 142 
+sharecluster 13342
+video :Kxa0mnDj0bs 180 
+video :o_MVaCvgBC4 147 
+sharecluster 13347
+video :Kxa0mnDj0bs 186 
+video :o_MVaCvgBC4 152 
+video o_MVaCvgBC4 with video wf_IIbT8HGk 
+sharecluster 155
+video :o_MVaCvgBC4 2 ~7 9 ~17 30 ~40 197 237 264 ~265 267 ~271 289 292 ~297 327 ~330 340 ~341 359 ~365 375 
+video :wf_IIbT8HGk 9 ~19 77 105 ~110 130 ~147 153 ~156 200 ~203 252 ~259 401 ~415 423 ~424 429 431 
+sharecluster 11819
+video :o_MVaCvgBC4 169 
+video :wf_IIbT8HGk 163 165 
+sharecluster 11821
+video :o_MVaCvgBC4 172 
+video :wf_IIbT8HGk 166 

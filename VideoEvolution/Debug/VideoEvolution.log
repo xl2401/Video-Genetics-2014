@@ -1,0 +1,152 @@
+﻿生成启动时间为 2014/5/9 4:54:57。
+     1>项目“C:\Users\lxh199124\Documents\project fall 2013\VideoEvolution\VideoEvolution.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\mylib.h(21): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\autocolorcorrelogram.cpp(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\autocolorcorrelogram.cpp(40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\autocolorcorrelogram.cpp(43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\autocolorcorrelogram.cpp(56): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\autocolorcorrelogram.cpp(57): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\autocolorcorrelogram.cpp(58): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\histogram.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\flann.cpp(65): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\flann.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\resize.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(159): warning C4305: “参数”: 从“int”到“char”截断
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(159): warning C4309: “参数”: 截断常量值
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(209): warning C4305: “参数”: 从“int”到“char”截断
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(209): warning C4309: “参数”: 截断常量值
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(346): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(402): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(409): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(411): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(450): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(458): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(480): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lxh199124\documents\project fall 2013\videoevolution\main.cpp(456): warning C4101: “previous2”: 未引用的局部变量
+     1>c:\opencv\build\include\opencv2\flann\flann_base.hpp(78): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+                 c:\opencv\build\include\opencv2\flann\flann_base.hpp(114): 参见对正在编译的函数 模板 实例化“cvflann::NNIndex<Distance> *cvflann::load_saved_index<Distance>(const cvflann::Matrix<T> &,const std::string &,Distance)”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     T=float
+                 ]
+                 c:\opencv\build\include\opencv2\flann\flann_base.hpp(107): 编译类 模板 成员函数“cvflann::Index<Distance>::Index(const cvflann::Matrix<T> &,const cvflann::IndexParams &,Distance)”时
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     T=float
+                 ]
+                 c:\users\lxh199124\documents\project fall 2013\videoevolution\flann.cpp(88): 参见对正在编译的函数 模板 实例化“cvflann::Index<Distance>::Index(const cvflann::Matrix<T> &,const cvflann::IndexParams &,Distance)”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     T=float
+                 ]
+                 c:\users\lxh199124\documents\project fall 2013\videoevolution\flann.cpp(88): 参见对正在编译的类 模板 实例化“cvflann::Index<Distance>”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>
+                 ]
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(2761): warning C4996: 'std::_Fill_n': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(2747) : 参见“std::_Fill_n”的声明
+                 c:\opencv\build\include\opencv2\flann\lsh_index.h(202): 参见对正在编译的函数 模板 实例化“_OutIt std::fill_n<T*,int,int>(_OutIt,_Diff,const _Ty &)”的引用
+                 with
+                 [
+                     _OutIt=int *,
+                     T=int,
+                     _Diff=int,
+                     _Ty=int
+                 ]
+                 c:\opencv\build\include\opencv2\flann\lsh_index.h(191): 编译类 模板 成员函数“void cvflann::LshIndex<Distance>::knnSearch(const cvflann::Matrix<T> &,cvflann::Matrix<int> &,cvflann::Matrix<T> &,int,const cvflann::SearchParams &)”时
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     T=float
+                 ]
+                 c:\opencv\build\include\opencv2\flann\all_indices.h(80): 参见对正在编译的类 模板 实例化“cvflann::LshIndex<Distance>”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>
+                 ]
+                 c:\opencv\build\include\opencv2\flann\all_indices.h(53): 编译类 模板 成员函数“cvflann::NNIndex<Distance> *cvflann::index_creator<KDTreeCapability,VectorSpace,Distance>::create(const cvflann::Matrix<T> &,const cvflann::IndexParams &,const Distance &)”时
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     KDTreeCapability=cvflann::L1<float>::is_kdtree_distance,
+                     VectorSpace=cvflann::L1<float>::is_vector_space_distance,
+                     T=float
+                 ]
+                 c:\opencv\build\include\opencv2\flann\all_indices.h(150): 参见对正在编译的函数 模板 实例化“cvflann::NNIndex<Distance> *cvflann::index_creator<KDTreeCapability,VectorSpace,Distance>::create(const cvflann::Matrix<T> &,const cvflann::IndexParams &,const Distance &)”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     KDTreeCapability=cvflann::L1<float>::is_kdtree_distance,
+                     VectorSpace=cvflann::L1<float>::is_vector_space_distance,
+                     T=float
+                 ]
+                 c:\opencv\build\include\opencv2\flann\all_indices.h(150): 参见对正在编译的类 模板 实例化“cvflann::index_creator<KDTreeCapability,VectorSpace,Distance>”的引用
+                 with
+                 [
+                     KDTreeCapability=cvflann::L1<float>::is_kdtree_distance,
+                     VectorSpace=cvflann::L1<float>::is_vector_space_distance,
+                     Distance=cvflann::L1<float>
+                 ]
+                 c:\opencv\build\include\opencv2\flann\flann_base.hpp(118): 参见对正在编译的函数 模板 实例化“cvflann::NNIndex<Distance> *cvflann::create_index_by_type<Distance>(const cvflann::Matrix<T> &,const cvflann::IndexParams &,const Distance &)”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>,
+                     T=float
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(2747) : 参见“std::_Fill_n”的声明
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(2176): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(2157) : 参见“std::_Copy_impl”的声明
+                 c:\opencv\build\include\opencv2\flann\sampling.h(73): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<T*,T*>(_InIt,_InIt,_OutIt)”的引用
+                 with
+                 [
+                     _OutIt=float *,
+                     T=float,
+                     _InIt=float *
+                 ]
+                 c:\opencv\build\include\opencv2\flann\autotuned_index.h(424): 参见对正在编译的函数 模板 实例化“cvflann::Matrix<T> cvflann::random_sample<float>(const cvflann::Matrix<T> &,size_t)”的引用
+                 with
+                 [
+                     T=float
+                 ]
+                 c:\opencv\build\include\opencv2\flann\autotuned_index.h(408): 编译类 模板 成员函数“cvflann::IndexParams cvflann::AutotunedIndex<Distance>::estimateBuildParams(void)”时
+                 with
+                 [
+                     Distance=cvflann::L1<float>
+                 ]
+                 c:\opencv\build\include\opencv2\flann\autotuned_index.h(102): 参见对正在编译的函数 模板 实例化“cvflann::IndexParams cvflann::AutotunedIndex<Distance>::estimateBuildParams(void)”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>
+                 ]
+                 c:\opencv\build\include\opencv2\flann\all_indices.h(74): 参见对正在编译的类 模板 实例化“cvflann::AutotunedIndex<Distance>”的引用
+                 with
+                 [
+                     Distance=cvflann::L1<float>
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lxh199124\Documents\project fall 2013\Debug\VideoEvolution.exe" /INCREMENTAL /NOLOGO opencv_calib3d246d.lib opencv_contrib246d.lib opencv_core246d.lib opencv_features2d246d.lib opencv_flann246d.lib opencv_gpu246d.lib opencv_highgui246d.lib opencv_imgproc246d.lib opencv_legacy246d.lib opencv_ml246d.lib opencv_objdetect246d.lib opencv_ts246d.lib opencv_video246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VideoEvolution.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lxh199124\Documents\project fall 2013\Debug\VideoEvolution.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lxh199124\Documents\project fall 2013\Debug\VideoEvolution.lib" /MACHINE:X86 Debug\AutoColorCorrelogram.obj
+         Debug\Flann.obj
+         Debug\Frame.obj
+         Debug\histogram.obj
+         Debug\main.obj
+         Debug\resize.obj
+         Debug\Video.obj
+         VideoEvolution.vcxproj -> C:\Users\lxh199124\Documents\project fall 2013\Debug\VideoEvolution.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\mt.exe /nologo /verbose /out:"C:\Users\lxh199124\Documents\project fall 2013\Debug\VideoEvolution.exe.manifest" /manifest Debug\VideoEvolution.exe.intermediate.manifest
+     1>已完成生成项目“C:\Users\lxh199124\Documents\project fall 2013\VideoEvolution\VideoEvolution.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.56
